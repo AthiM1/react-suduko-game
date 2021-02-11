@@ -11,7 +11,7 @@ function App() {
       </header>
       <main>
         <Grid></Grid>
-        <div className='footer'>
+        <div className='navbar-light p-3 mt-4'>
           Source code on <a href='https://github.com'>GitHub</a>
         </div>
       </main>
